@@ -1,42 +1,53 @@
-# Awesome Search Engine Optimization (SEO) Tools
+# Awesome Search Engine Optimization (SEO) Tools 🚀
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ishandutta2007/Awesome-Search-Engine-Optimization-SEO-Tools/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Search-Engine-Optimization-SEO-Tools/pulls)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Search Engine Optimization (SEO) Tools Banner" width="100%" />
+</p>
 
-> A curated list of leading SaaS platforms and open-source GitHub projects for Search Engine Optimization (SEO), Generative Engine Optimization (GEO), technical site auditing, rank tracking, backlink analysis, and keyword intelligence.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://www.trackawesomelist.com/ishandutta2007/Awesome-Search-Engine-Optimization-SEO-Tools/"><img src="https://www.trackawesomelist.com/badge.svg" alt="Track Awesome List" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Search-Engine-Optimization-SEO-Tools/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Last updated:** October 2026
+> 🔍 **A curated list of leading SaaS platforms and open-source GitHub projects for Search Engine Optimization (SEO), Generative Engine Optimization (GEO), technical site auditing, rank tracking, backlink analysis, and keyword intelligence.**
 
-Search Engine Optimization (SEO) tools empower digital marketers, growth engineers, agencies, and site owners to audit technical crawlability, unearth high-intent keyword opportunities, track SERP ranking positions, examine competitor backlink profiles, and monitor visibility across both traditional search engines (Google, Bing) and emerging AI answer engines (ChatGPT Search, Perplexity, Google AI Overviews).
+📅 **Last updated:** October 2026
 
----
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS / Hosted Platforms](#saas--hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Key Architectural Considerations & Cost Caveats](#key-architectural-considerations--cost-caveats)
-- [How to Contribute](#how-to-contribute)
-- [License & Disclaimer](#license--disclaimer)
+Search Engine Optimization (SEO) tools empower digital marketers, growth engineers, agencies, and site owners to audit technical crawlability, unearth high-intent keyword opportunities, track SERP ranking positions, examine competitor backlink profiles, and monitor visibility across both traditional search engines (Google, Bing) and emerging AI answer engines (ChatGPT Search, Perplexity, Google AI Overviews). 🎯
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📑 Table of Contents
 
-The global Search Engine Optimization (SEO) software market is estimated at **$7.5 billion in 2025–2026**, expanding at a compound annual growth rate (CAGR) of approximately 14–16% as AI-driven search experiences (GEO / AEO) redefine organic discovery. 
-
-The sector is **moderately concentrated** at the enterprise and mid-market data layers—where commercial giants like HubSpot, Semrush, and Ahrefs command deep data moats with multi-billion-page backlink and web indexes—yet **highly fragmented** across specialized niche verticals including technical site crawlers, AI content optimizers, local rank trackers, and autonomous agent-based SEO workflows.
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🧠 Key Architectural Considerations & Cost Caveats](#-key-architectural-considerations--cost-caveats)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
+- [📜 License & Disclaimer](#-license--disclaimer)
 
 ---
 
-## SaaS / Hosted Platforms
+## 📊 Sector Overview & Market Dynamics
+
+The global Search Engine Optimization (SEO) software market is estimated at **$7.5 billion in 2025–2026**, expanding at a compound annual growth rate (CAGR) of approximately 14–16% as AI-driven search experiences (GEO / AEO) redefine organic discovery. 📈
+
+The sector is **moderately concentrated** at the enterprise and mid-market data layers—where commercial giants like HubSpot, Semrush, and Ahrefs command deep data moats with multi-billion-page backlink and web indexes—yet **highly fragmented** across specialized niche verticals including technical site crawlers, AI content optimizers, local rank trackers, and autonomous agent-based SEO workflows. 🌐
+
+---
+
+## 🏢 SaaS / Hosted Platforms
 
 Leading commercial SaaS platforms ranked by company scale (market capitalization, estimated valuation, or annual revenue):
 
-| Platform | Company Scale (Valuation / Revenue) | Starting Price (Paid Tier) | Free Tier / Free Trial Limits | Key Focus & Capabilities |
+| Platform 🛠️ | Company Scale (Valuation / Revenue) 💼 | Starting Price (Paid Tier) 🏷️ | Free Tier / Free Trial Limits 🎁 | Key Focus & Capabilities ⚡ |
 | :--- | :--- | :--- | :--- | :--- |
 | **[HubSpot SEO](https://www.hubspot.com/products/marketing/seo)** | ~$30B Market Cap (NYSE: HUBS) / $2.6B ARR | $15/month/seat (Starter Marketing Hub) | **Free forever plan** with basic CMS/website builder, limited SEO recommendations, and up to 5 website pages | Inbound marketing, topic clusters, on-page optimization, and CRM-connected attribution |
 | **[Semrush](https://www.semrush.com/)** | ~$1.8B Market Cap (NYSE: SEMR) / $350M+ ARR | $139.95/month (Pro Tier) | **Free forever account** with 10 search queries/day, 1 project, and 100 crawled pages/month (or 7-day full Pro trial) | All-in-one suite with 25B+ keyword database, competitive analysis, backlink audits, and position tracking |
@@ -51,11 +62,11 @@ Leading commercial SaaS platforms ranked by company scale (market capitalization
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 Leading open-source SEO tools, engines, crawlers, and AI-agent skills ranked by GitHub Stars:
 
-| Repository | GitHub Stars | Primary Focus & Architecture | Description |
+| Repository 📂 | GitHub Stars ⭐ | Primary Focus & Architecture 🏗️ | Description 📝 |
 | :--- | :--- | :--- | :--- |
 | **[OpenSEO](https://github.com/every-app/open-seo)** | [![GitHub stars](https://img.shields.io/github/stars/every-app/open-seo?style=social&color=white)](https://github.com/every-app/open-seo/stargazers) | Full-Suite SEO Platform | Self-hosted Semrush/Ahrefs alternative covering keyword research, rank tracking, domain audits, backlink tracking, and MCP agent integration (uses DataForSEO API). |
 | **[Next SEO](https://github.com/garmeeh/next-seo)** | [![GitHub stars](https://img.shields.io/github/stars/garmeeh/next-seo?style=social&color=white)](https://github.com/garmeeh/next-seo/stargazers) | Next.js Metadata & Schema Engine | Production-ready Next.js plugin for declarative management of meta tags, Open Graph, Twitter Cards, and JSON-LD structured data. |
@@ -76,34 +87,51 @@ Leading open-source SEO tools, engines, crawlers, and AI-agent skills ranked by 
 
 ---
 
-## Key Architectural Considerations & Cost Caveats
+## 🧠 Key Architectural Considerations & Cost Caveats
 
 When selecting or building an SEO technology stack, engineers and marketers must consider the following technical distinctions:
 
 1. **Backlink Indices & Historical Data (Commercial Moats)**:
-   Comprehensive backlink databases (Ahrefs, Semrush, Moz) index trillions of live web pages continuously. Open-source tools cannot replicate this infrastructure out-of-the-box. Solutions like `mcp-common-crawl` offer free historical discovery via Common Crawl, but lack real-time freshness.
+   Comprehensive backlink databases (Ahrefs, Semrush, Moz) index trillions of live web pages continuously. Open-source tools cannot replicate this infrastructure out-of-the-box. Solutions like `mcp-common-crawl` offer free historical discovery via Common Crawl, but lack real-time freshness. 🌐
 2. **Third-Party SERP & Keyword Data APIs**:
-   Self-hosted platforms such as **OpenSEO** and **SerpBear** eliminate recurring SaaS seat fees, but require underlying API data keys (e.g., DataForSEO, Serper, ValueSERP, ScrapingDog) billed per query or per credit.
+   Self-hosted platforms such as **OpenSEO** and **SerpBear** eliminate recurring SaaS seat fees, but require underlying API data keys (e.g., DataForSEO, Serper, ValueSERP, ScrapingDog) billed per query or per credit. 💳
 3. **Generative Engine Optimization (GEO / AEO)**:
-   Modern SEO extends beyond classic blue links to AI search models (ChatGPT, Perplexity, Gemini). Open-source projects like **Scrawly** and **open-seo-crawler** validate whether your site's content, schema markup, and `llms.txt` are accessible to autonomous crawler agents.
+   Modern SEO extends beyond classic blue links to AI search models (ChatGPT, Perplexity, Gemini). Open-source projects like **Scrawly** and **open-seo-crawler** validate whether your site's content, schema markup, and `llms.txt` are accessible to autonomous crawler agents. 🤖
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
 Contributions are welcome! Please follow these steps to add or update tools:
 
-1. **Fork** this repository.
+1. **Fork** this repository. 🍴
 2. Edit `README.md` to insert the new tool in the appropriate table, ensuring:
    - Specific pricing and clear free tier / trial terms are supplied.
    - For open-source repos, include the white social star badge linking to `/stargazers`.
    - Table entries remain sorted according to the established criteria (valuation for SaaS, stars for OSS).
 3. Verify all markdown links and formatting.
-4. Submit a **Pull Request** detailing your additions.
+4. Submit a **Pull Request** detailing your additions. 🚀
 
 ---
 
-## License & Disclaimer
+## 💖 Support
+
+Thank you for exploring and utilizing the **Awesome Search Engine Optimization (SEO) Tools** list! 🌟 If you find this repository valuable for your research, client work, or development projects, please consider supporting the project:
+
+- ⭐ **Star this repository** to improve visibility and help other SEO practitioners discover it.
+- 🍴 **Fork and contribute** tools, benchmarks, and updates to keep the ecosystem fresh.
+- 📢 **Share with your network** on LinkedIn, X/Twitter, Discord, and tech communities.
+- ☕ **Buy a coffee & sponsor**: Support continuous maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 🌟 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Search-Engine-Optimization-SEO-Tools&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Search-Engine-Optimization-SEO-Tools&type=date&legend=top-left)
+
+---
+
+## 📜 License & Disclaimer
 
 - Distributed under the [MIT License](LICENSE).
 - This list is curated by the community for informational and educational purposes. Always verify third-party crawler terms of service, search engine guidelines, and API license agreements.
